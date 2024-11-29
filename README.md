@@ -1,5 +1,6 @@
 # Lending Club Case Study
 > A data-driven approach to improving loan approval processes and minimizing credit losses.
+> GitHub repository link -https://github.com/KiranKRao/LendingClubCaseStudy
 
 ## Table of Contents
 * [General Information](#general-information)
